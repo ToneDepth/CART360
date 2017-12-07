@@ -1,2 +1,1 @@
-# CART360
-Repository for CART360: Tangible Media &amp; Physical Computing 
+Video and Picture Documentation Video found at https://youtu.be/vccNnmdjnHg
